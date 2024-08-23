@@ -5,7 +5,7 @@ import Navbar from './Components/Navbar'
 import Aboutus from './Components/Aboutus'
 import Login from './Components/Login'
 import Signup from './Components/Signup'
-
+import Footer from './Components/Footer'
 
 function App() {
 
