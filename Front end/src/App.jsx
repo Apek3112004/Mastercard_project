@@ -5,11 +5,7 @@ import Navbar from './Components/Navbar'
 import Aboutus from './Components/Aboutus'
 import Login from './Components/Login'
 import Signup from './Components/Signup'
-import Footer from  './Components/Footer'
-import 'bootstrap/dist/css/bootstrap.min.css';
-import 'bootstrap/dist/js/bootstrap.bundle.min';
-
-
+import Footer from './Components/Footer'
 
 function App() {
 
